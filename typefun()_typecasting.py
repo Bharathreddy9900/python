@@ -4,6 +4,6 @@ t=type(a)#<class 'str'>
 print(t)
  
 b="6.56"
-c=float(b)
+c=float(b)#here we can use type and change data type 
 d=type(c)
 print(d)
