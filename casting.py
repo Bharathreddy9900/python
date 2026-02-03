@@ -1,4 +1,7 @@
 '''python casting is a method to convert the python variable datatype into certain different datatype '''
+'''there are 2 types:
+explicit :here user odifies the code '''
+
 a=float(34)
 print(a)
 b=int(34.8923)

@@ -3,6 +3,9 @@ a="2"
 b="Bharath"
 c="i am good."
 print(c)
+
+
+
 """rules to write variables 
 1.variables can start with letters and underscore.
 2.variables can't start with digits 
@@ -15,6 +18,11 @@ _variable=3
 #@variable=3 is not allowed 
 var123=34
 
+
+
+
+
+#output variables
 #multiple values can be assigned 
 z=y=x="orange"
 print(z)
@@ -29,6 +37,8 @@ print(R)
 print(S)
 
 
-
+#output variables
 print(a+b+c)
+
+#global variables
 
